@@ -18,12 +18,12 @@ git commit -m "Agregando un nuevo archivo"
 4. git push: Envía los cambios locales al repositorio remoto en GitHub.
 
 ```shell
-git push origin master
+git push origin main
 ```
 5. git pull: Obtiene los cambios del repositorio remoto en GitHub y los fusiona con tu rama local.
 
 ```shell
-git pull origin master
+git pull origin main
 ```
 6. git branch: Lista las ramas existentes y crea una nueva rama.
 
